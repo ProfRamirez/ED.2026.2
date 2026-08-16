@@ -12,7 +12,7 @@ Compreender as estruturas de dados e os algoritmos a elas associados é fundamen
 Adotaremos a metodologia de aprendizado clássica, com ligeiras modificações, baseada nos seguintes livros texto: 
  1) **Estruturas de Dados e Seus Algoritmos**; Jayme L. Szwarcfiter e Lilian Markenzon; 3a Edição; Editora GEN-LTC; 2020
  2) **Algoritmos, Teoria e Prática**; T.H. Cormen, C. E. Leiserson, R. L. Rivest, C Stein; 4a edição; Editora GEN LTC; 2024
- 3) **Estruturas de Dados e Algoritmos em C++; Adam Drozdek; 4a Edição; Editora CENGAGE Learning; 2017
+ 3) **Estruturas de Dados e Algoritmos em C++**; Adam Drozdek; 4a Edição; Editora CENGAGE Learning; 2017
  4) **Data Structures and Algorithms in Python**; Michael T. Goodrich, Roberto Tamassia, Michel H. Goldwasser; ISBN13 978-1118290279; Editora Wile; 2013
 
 Há ainda outras leituras de apoio à disciplina. Algumas recomendações, em particular sobre programação, apresentadas na página oficial da disciplina (https://sites.google.com/matematica.ufrj.br/ed-2026-2/home)
